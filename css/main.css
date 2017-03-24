@@ -1,0 +1,53 @@
+body {
+  background-image:url('https://www.choice.com.au/~/media/8a1e999778d6486a8ccc908b99b303af.ashx?jq=80&w=994&h=559');
+  font-family: 'Gochi Hand', cursive;
+  background-color: #ffcccc;
+  
+}
+
+header{
+
+  width:100%;
+  background:#33cc33;
+  text-align: center;
+  font-size: 50px;
+}
+
+img{
+  background-image: url('https://www.choice.com.au/~/media/8a1e999778d6486a8ccc908b99b303af.ashx?jq=80&w=994&h=559')
+  
+}
+
+input{
+  height: 30px;
+  width: 50%;
+  border-style: inset;
+  border-width: 5px;
+  font-size: 25px;
+  text-align: center;
+  margin-left: 25%;
+  
+  
+}
+
+button{
+  font-family: 'Gochi Hand', cursive;
+  font-size:16px;
+  border-radius: 50%;
+  margin:1%;
+  padding: 2%;
+}
+
+ol{
+  font-size: 35px;
+  font-weight: bolder;
+  width: 50%;
+  margin-left:25%;
+  background:#fff;
+  padding-top: 1px; 
+}
+
+ol li {
+  padding-top: 3px;
+  margin-top: 20px;
+}
